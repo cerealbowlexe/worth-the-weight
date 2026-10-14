@@ -1,0 +1,24 @@
+{"version":3,"updated":"2026-10-14","note":"","targets":{"cal":2300,"protein":115},
+"meals":[
+ {"id":1000,"date":"2026-10-09","name":"Plain bagel with cream cheese","cal":380,"protein":12},
+ {"id":1001,"date":"2026-10-09","name":"Half chicken burrito bowl (rice, beans, corn, lettuce, sauce)","cal":500,"protein":27},
+ {"id":1002,"date":"2026-10-09","name":"Rice, fried egg, aloo curry, squash bhaji, beef and squash curry","cal":900,"protein":43},
+ {"id":1003,"date":"2026-10-09","name":"Oikos 30 g protein shake","cal":200,"protein":30},
+ {"id":1004,"date":"2026-10-10","name":"Bagel with two eggs","cal":450,"protein":23},
+ {"id":1005,"date":"2026-10-10","name":"One and a half apple cider donuts","cal":420,"protein":6},
+ {"id":1006,"date":"2026-10-10","name":"Small bowl of pasta with vegetables","cal":250,"protein":8},
+ {"id":1007,"date":"2026-10-10","name":"Large takeout box: half General Tso chicken, half vegetable fried rice","cal":1450,"protein":55},
+ {"id":1008,"date":"2026-10-10","name":"Oikos 30 g protein shake","cal":200,"protein":30},
+ {"id":1009,"date":"2026-10-11","name":"Bagel with cream cheese","cal":380,"protein":12},
+ {"id":1010,"date":"2026-10-11","name":"Two Chips Ahoy Chewy cookies","cal":140,"protein":1},
+ {"id":1011,"date":"2026-10-11","name":"Rice and six golf-ball-sized chicken meatballs","cal":650,"protein":39},
+ {"id":2012001,"date":"2026-10-12","name":"Taco Express full burrito bowl: chicken, rice, pinto beans, corn, lettuce, chipotle sauce","cal":1000,"protein":54},
+ {"id":2012002,"date":"2026-10-12","name":"Cashews (1 oz / 28 g)","cal":160,"protein":5},
+ {"id":2012003,"date":"2026-10-12","name":"Two Kawan Plain Parathas","cal":500,"protein":8},
+ {"id":2012004,"date":"2026-10-12","name":"Three chicken kofta balls","cal":240,"protein":21},
+ {"id":2012005,"date":"2026-10-12","name":"Oikos 30 g protein shake","cal":200,"protein":30}
+],
+"weights":[],
+"workouts":[],
+"removed":[]
+}
