@@ -16,7 +16,12 @@
  {"id":2012002,"date":"2026-10-12","name":"Cashews (1 oz / 28 g)","cal":160,"protein":5},
  {"id":2012003,"date":"2026-10-12","name":"Two Kawan Plain Parathas","cal":500,"protein":8},
  {"id":2012004,"date":"2026-10-12","name":"Three chicken kofta balls","cal":240,"protein":21},
- {"id":2012005,"date":"2026-10-12","name":"Oikos 30 g protein shake","cal":200,"protein":30}
+ {"id":2012005,"date":"2026-10-12","name":"Oikos 30 g protein shake","cal":200,"protein":30},
+ {"id":2026101101,"date":"2026-10-11","name":"Oikos 30 g protein shake","cal":200,"protein":30},
+ {"id":2026101301,"date":"2026-10-13","name":"Bagel with two eggs and mayo","cal":550,"protein":23},
+ {"id":2026101302,"date":"2026-10-13","name":"Cashews (1 oz / 28 g)","cal":160,"protein":5},
+ {"id":2026101303,"date":"2026-10-13","name":"Protein bar","cal":220,"protein":20},
+ {"id":2026101304,"date":"2026-10-13","name":"Chicken and lamb platter over yellow rice with white sauce, lettuce and cucumber","cal":1000,"protein":48}
 ],
 "weights":[],
 "workouts":[],
