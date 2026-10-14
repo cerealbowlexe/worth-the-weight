@@ -1,0 +1,16 @@
+{
+  "name": "Worth the Weight",
+  "short_name": "Worth the Weight",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0B2870",
+  "theme_color": "#0B2870",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
