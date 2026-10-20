@@ -21,9 +21,30 @@
  {"id":2026101301,"date":"2026-10-13","name":"Bagel with two eggs and mayo","cal":550,"protein":23},
  {"id":2026101302,"date":"2026-10-13","name":"Cashews (1 oz / 28 g)","cal":160,"protein":5},
  {"id":2026101305,"date":"2026-10-13","name":"Nature Valley Protein bar, peanut butter dark chocolate","cal":190,"protein":10},
- {"id":2026101304,"date":"2026-10-13","name":"Chicken and lamb platter over yellow rice with white sauce, lettuce and cucumber","cal":1000,"protein":48}
+ {"id":2026101304,"date":"2026-10-13","name":"Chicken and lamb platter over yellow rice with white sauce, lettuce and cucumber","cal":1000,"protein":48},
+ {"id":2026101701,"date":"2026-10-17","name":"2½ grilled chicken sandwiches (burger bun, mayo, lettuce, cucumber)","cal":1080,"protein":100},
+ {"id":2026101702,"date":"2026-10-17","name":"Cashews, 2 servings (2 oz / 56 g)","cal":320,"protein":10},
+ {"id":2026101703,"date":"2026-10-17","name":"Bowl of pasta with chicken meatballs","cal":600,"protein":32},
+ {"id":2026101704,"date":"2026-10-17","name":"Oikos 30 g protein shake","cal":200,"protein":30},
+ {"id":2026101801,"date":"2026-10-18","name":"Half a Costco croissant","cal":150,"protein":3},
+ {"id":2026101802,"date":"2026-10-18","name":"3 Chetak parathas (220 kcal, 5 g each per label)","cal":660,"protein":15},
+ {"id":2026101803,"date":"2026-10-18","name":"Chicken and potato curry: 1 leg + 2 pieces chicken, 3 pieces potato","cal":650,"protein":50},
+ {"id":2026101804,"date":"2026-10-18","name":"Apple","cal":95,"protein":0},
+ {"id":2026101805,"date":"2026-10-18","name":"2 pitas with red spiced chicken, mayo, shredded lettuce, tomato, cucumber","cal":650,"protein":40},
+ {"id":2026101806,"date":"2026-10-18","name":"Oikos 30 g protein shake","cal":200,"protein":30},
+ {"id":2026101901,"date":"2026-10-19","name":"Bagel with egg and mayo","cal":460,"protein":16},
+ {"id":2026101902,"date":"2026-10-19","name":"Deli turkey sandwich on a roll with everything","cal":600,"protein":32},
+ {"id":2026101903,"date":"2026-10-19","name":"Trail mix packet (deli, small)","cal":250,"protein":7},
+ {"id":2026101904,"date":"2026-10-19","name":"Oikos 30 g protein shake","cal":200,"protein":30},
+ {"id":2026101905,"date":"2026-10-19","name":"Butter chicken (bowl, about 5 pieces)","cal":500,"protein":38},
+ {"id":2026101906,"date":"2026-10-19","name":"3 Chetak parathas (220 kcal, 5 g each per label)","cal":660,"protein":15}
 ],
-"weights":[],
-"workouts":[],
+"weights":[
+ {"id":2026101780,"date":"2026-10-17","value":125.6},
+ {"id":2026101880,"date":"2026-10-18","value":125.0}
+],
+"workouts":[
+ {"id":2026101790,"date":"2026-10-17","session":"A","entries":[{"name":"Pull-ups","reps":"5/5/5"},{"name":"Push-ups","reps":"8/8/8"},{"name":"Band squats","reps":"10/10/10"},{"name":"Resistance band rows","reps":"10/10/10"},{"name":"Plank","reps":"60/60/60 sec"}]}
+],
 "removed":[2026101303]
 }
