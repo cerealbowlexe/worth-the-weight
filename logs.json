@@ -37,7 +37,16 @@
  {"id":2026101903,"date":"2026-10-19","name":"Trail mix packet (deli, small)","cal":250,"protein":7},
  {"id":2026101904,"date":"2026-10-19","name":"Oikos 30 g protein shake","cal":200,"protein":30},
  {"id":2026101905,"date":"2026-10-19","name":"Butter chicken (bowl, about 5 pieces)","cal":500,"protein":38},
- {"id":2026101906,"date":"2026-10-19","name":"3 Chetak parathas (220 kcal, 5 g each per label)","cal":660,"protein":15}
+ {"id":2026101906,"date":"2026-10-19","name":"3 Chetak parathas (220 kcal, 5 g each per label)","cal":660,"protein":15},
+ {"id":2026102001,"date":"2026-10-20","name":"Bagel with egg","cal":370,"protein":16},
+ {"id":2026102002,"date":"2026-10-20","name":"Cashews (1 oz / 28 g)","cal":160,"protein":5},
+ {"id":2026102003,"date":"2026-10-20","name":"4 Chetak parathas (220 kcal, 5 g each per label)","cal":880,"protein":20},
+ {"id":2026102004,"date":"2026-10-20","name":"Butter chicken, 2 servings (about 8 pieces total)","cal":840,"protein":64},
+ {"id":2026102005,"date":"2026-10-20","name":"Oikos 30 g protein shake","cal":200,"protein":30},
+ {"id":2026102101,"date":"2026-10-21","name":"Bagel with egg","cal":370,"protein":16},
+ {"id":2026102102,"date":"2026-10-21","name":"Halal-cart mixed (chicken + lamb) over rice","cal":1000,"protein":48},
+ {"id":2026102103,"date":"2026-10-21","name":"2 Chetak parathas (220 kcal, 5 g each per label)","cal":440,"protein":10},
+ {"id":2026102104,"date":"2026-10-21","name":"Butter chicken, 6 pieces","cal":630,"protein":48}
 ],
 "weights":[
  {"id":2026101780,"date":"2026-10-17","value":125.6},
