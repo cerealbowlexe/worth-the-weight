@@ -50,18 +50,20 @@
  {"id":2026102201,"date":"2026-10-22","name":"Taco Express burrito bowl, usual order, ate about 3/4","cal":750,"protein":40},
  {"id":2026102202,"date":"2026-10-22","name":"Garlic naan with chicken shish kebab (1 skewer)","cal":570,"protein":33},
  {"id":2026102301,"date":"2026-10-23","name":"Bagel with egg and mayo","cal":460,"protein":16},
- {"id":2026102302,"date":"2026-10-23","name":"Halal Munchies chicken platter with salad and fries, white sauce","cal":950,"protein":58},
+ {"id":2026102303,"date":"2026-10-23","name":"Halal Munchies chicken over rice with salad and fries, BBQ + green + white sauce","cal":1400,"protein":65},
  {"id":2026102401,"date":"2026-10-24","name":"4 Chetak parathas (220 kcal, 5 g each per label)","cal":880,"protein":20},
  {"id":2026102402,"date":"2026-10-24","name":"Chicken and potato curry: 1 leg + 3 smaller pieces, 4 potatoes","cal":750,"protein":55},
  {"id":2026102403,"date":"2026-10-24","name":"2 Chetak parathas (220 kcal, 5 g each per label)","cal":440,"protein":10},
- {"id":2026102404,"date":"2026-10-24","name":"Cauliflower and potato curry (aloo gobi), 1 serving","cal":250,"protein":5}
+ {"id":2026102404,"date":"2026-10-24","name":"Cauliflower and potato curry (aloo gobi), 1 serving","cal":250,"protein":5},
+ {"id":2026102405,"date":"2026-10-24","name":"Oikos 30 g protein shake","cal":200,"protein":30}
 ],
 "weights":[
  {"id":2026101780,"date":"2026-10-17","value":125.6},
- {"id":2026101880,"date":"2026-10-18","value":125.0}
+ {"id":2026101880,"date":"2026-10-18","value":125.0},
+ {"id":2026102380,"date":"2026-10-23","value":128.0}
 ],
 "workouts":[
  {"id":2026101790,"date":"2026-10-17","session":"A","entries":[{"name":"Pull-ups","reps":"5/5/5"},{"name":"Push-ups","reps":"8/8/8"},{"name":"Band squats","reps":"10/10/10"},{"name":"Resistance band rows","reps":"10/10/10"},{"name":"Plank","reps":"60/60/60 sec"}]}
 ],
-"removed":[2026101303]
+"removed":[2026101303,2026102302]
 }
