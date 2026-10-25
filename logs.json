@@ -46,7 +46,15 @@
  {"id":2026102101,"date":"2026-10-21","name":"Bagel with egg","cal":370,"protein":16},
  {"id":2026102102,"date":"2026-10-21","name":"Halal-cart mixed (chicken + lamb) over rice","cal":1000,"protein":48},
  {"id":2026102103,"date":"2026-10-21","name":"2 Chetak parathas (220 kcal, 5 g each per label)","cal":440,"protein":10},
- {"id":2026102104,"date":"2026-10-21","name":"Butter chicken, 6 pieces","cal":630,"protein":48}
+ {"id":2026102104,"date":"2026-10-21","name":"Butter chicken, 6 pieces","cal":630,"protein":48},
+ {"id":2026102201,"date":"2026-10-22","name":"Taco Express burrito bowl, usual order, ate about 3/4","cal":750,"protein":40},
+ {"id":2026102202,"date":"2026-10-22","name":"Garlic naan with chicken shish kebab (1 skewer)","cal":570,"protein":33},
+ {"id":2026102301,"date":"2026-10-23","name":"Bagel with egg and mayo","cal":460,"protein":16},
+ {"id":2026102302,"date":"2026-10-23","name":"Halal Munchies chicken platter with salad and fries, white sauce","cal":950,"protein":58},
+ {"id":2026102401,"date":"2026-10-24","name":"4 Chetak parathas (220 kcal, 5 g each per label)","cal":880,"protein":20},
+ {"id":2026102402,"date":"2026-10-24","name":"Chicken and potato curry: 1 leg + 3 smaller pieces, 4 potatoes","cal":750,"protein":55},
+ {"id":2026102403,"date":"2026-10-24","name":"2 Chetak parathas (220 kcal, 5 g each per label)","cal":440,"protein":10},
+ {"id":2026102404,"date":"2026-10-24","name":"Cauliflower and potato curry (aloo gobi), 1 serving","cal":250,"protein":5}
 ],
 "weights":[
  {"id":2026101780,"date":"2026-10-17","value":125.6},
